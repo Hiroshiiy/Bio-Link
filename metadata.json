@@ -1,0 +1,7 @@
+{
+  "name": "BioLink AI - Professional Link-in-Bio Generator",
+  "description": "A high-performance, aesthetically pleasing link-in-bio application featuring AI-powered bio generation and real-time customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
