@@ -1,9 +1,9 @@
 
 
 
-# preview: https://github.com/user-attachments/assets/da2da7b4-0688-43a2-a0f1-8282eef04fe1
 
 
+https://github.com/user-attachments/assets/11d8e907-d86d-42a1-8987-d25e8bdea762
 
 
 # Site for bio
